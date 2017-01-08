@@ -5,4 +5,5 @@ package adiel.modulewithgit;
  */
 
 public class Student {
+    String name;
 }
